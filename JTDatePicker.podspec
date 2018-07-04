@@ -1,12 +1,8 @@
-Last login: Wed Jul  4 16:08:59 on ttys004
-KKIMac:~ xiaoneng$ vim /Users/xiaoneng/Desktop/JTAliPay/JTAliPay.podspec 
-
-
 # coding: utf-8
 Pod::Spec.new do |s|
-  s.name         = "JTDatePicer"
-  s.version      = "1.0.0"
-  s.summary      = "JTDatePicer Source ."
+  s.name         = "JTDatePicker"
+  s.version      = "1.0.1"
+  s.summary      = "JTDatePicker Source ."
   s.homepage     = 'https://github.com/JTCloudPlugin/JTDatePicker'
   s.license      = "MIT"
   s.authors      = { "kk" => "jtcloud@163.com" }
@@ -18,4 +14,3 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.frameworks = 'UIKit','Foundation'
 end
-
