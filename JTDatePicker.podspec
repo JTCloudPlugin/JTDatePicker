@@ -1,7 +1,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name         = "JTDatePicker"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "JTDatePicker Source ."
   s.homepage     = 'https://github.com/JTCloudPlugin/JTDatePicker'
   s.license      = "MIT"

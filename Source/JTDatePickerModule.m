@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "WXComponentManager.h"
 #import "WXConvert.h"
-#import <WeexPluginLoader/WeexPluginLoader.h>
+#import <WeexPluginLoader/WeexPluginLoader/WeexPluginLoader.h>
 #import "JTDatePickerView.h"
 
 @interface JTDatePickerModule ()<JTDatePickerViewDelegate>
